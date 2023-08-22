@@ -9,10 +9,10 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from config import BANNED_USERS
-from StrangerMusic import LOGGER, app, userbot
-from StrangerMusic.core.call import Stranger
-from StrangerMusic.plugins import ALL_MODULES
-from StrangerMusic.utils.database import get_banned_users, get_gbanned
+from 𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot import LOGGER, app, userbot
+from 𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot.core.call import Stranger
+from 𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot.plugins import ALL_MODULES
+from 𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot.utils.database import get_banned_users, get_gbanned
 
 loop = asyncio.get_event_loop()
 
@@ -25,7 +25,7 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
-        LOGGER("StrangerMusic").error(
+        LOGGER("𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot").error(
             "No Assistant Clients Vars Defined!.. Exiting Process."
         )
         return
