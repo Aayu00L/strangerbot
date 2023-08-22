@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/397ecf5aafdb4f1a8b79b.jpg" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/397ecf5aafdb4f1a8b79b.jpg" align="right" width="280" height="280"/>
 
 # 𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪 <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
@@ -39,26 +39,26 @@ Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/loc
 
 Reach out to the maintainer at one of the following places:
 
-- [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
+- [GitHub Issues](https://t.me/Aayu_x_venom)
+- Contact options listed on [Aayush profile](https://telegram.me/Aayush_X_D)
+- [Telegram Support](https://t.me/aayu_X_venom_support)
 
-If you want to say **thank you** or/and support active development of YukkiMusicBot:
+If you want to say **thank you** or/and support active development of 𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot:
 
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
+- MESSAGE ON  [TELEGRAM ID 🤫](https://telegram.me/Aayush_X_D) MAKER OF THE PROJECT.
 - Fork the Repo :)
-- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
-Together, we can make **YukkiMusicBot** better!
+Together, we can make **𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot** better!
 # 📑 Acknowledgement / Credits
 
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
+Special thanks to these amazing projects/people which/who help power 𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot :
 
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
-- [Charon Baglari](https://github.com/XCBv021)
+- [AAYUSH](https://telegram.me/Aayush_X_D)
+- [VENOM](https://telegram.me/Its_aryann)
+
+   OUR MUSIC BOT❤️ :
+- [𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪](https://telegram.me/Venom_X_musicc_bot)
+
 
 
 Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
