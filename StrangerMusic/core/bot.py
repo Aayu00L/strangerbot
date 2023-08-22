@@ -10,11 +10,11 @@ import config
 from ..logging import LOGGER
 
 bot_username=""
-class StrangerBot(Client):
+class 𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot(Client):
     def __init__(self):
         LOGGER(__name__).info(f"Starting Bot")
         super().__init__(
-            "StrangerMusicBot",
+            "𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             bot_token=config.BOT_TOKEN,
