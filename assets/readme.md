@@ -1,4 +1,4 @@
-## Yukki Assets Folder
+##  𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪 Folder
 
 # Contains all the fonts and thumb related files.
 
