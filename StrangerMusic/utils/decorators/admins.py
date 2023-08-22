@@ -1,10 +1,10 @@
-from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
+tufrom pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 from config import adminlist
 from strings import get_string
-from StrangerMusic import app
-from StrangerMusic.misc import SUDOERS
-from StrangerMusic.utils.database import (get_authuser_names, get_cmode,
+from 𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot import app
+from 𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot.misc import SUDOERS
+from 𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot.utils.database import (get_authuser_names, get_cmode,
                                        get_lang, is_active_chat,
                                        is_commanddelete_on,
                                        is_maintenance,
