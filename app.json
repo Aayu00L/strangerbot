@@ -1,31 +1,31 @@
 {
-    "name": "Stranger Music Bot",
+    "name": "𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://graph.org/file/d3fe3c288fdb37a70ca09.jpg",
+    "logo": "https://telegra.ph/file/397ecf5aafdb4f1a8b79b.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Stranger",
-    "StrangerMusicBot",
+    "𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪",
+    "𝐴𝑎𝑦𝑢𝚇ꪜꫀŇ𐍉ꪑ𓆪Bot",
     "telegram-bot",
     "pyrogram"
     ],
     "stack": "container",
     "env": {
       "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "Get this value from https://my.telegram.org CHUMTIYA ISKA BINA NHI BNNA BOT.",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "Get this value from https://my.telegram.org CHUMTIYA ISKA BINA NHI BNNA BOT",
         "value": "",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
         "description": "If you want your assistant to leave all chats automatically after some time.",
-        "value": "True",
+        "value": "False",
         "required": false
       },
       "BOT_TOKEN": {
@@ -34,22 +34,22 @@
         "required": true
       },
       "MONGO_DB_URI": {
-        "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Stranger's database for you.",
+        "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use MINE  database for you.",
         "value": "",
         "required": true
       },
       "MUSIC_BOT_NAME": {
-        "description": "A name for your Music Bot. Please don't use ascii characters",
+        "description": "A name for your Music Bot. Please don't use CHUTIYA 🤣 characters",
         "value": "",
         "required": true
       },
       "OWNER_ID": {
-        "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
+        "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.BC 2 SA JYDA OWNER B RAKH LO GHANTA FARK PDNA BOT KO.",
         "value": "",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram String Session. One Assistant is Compulsory.",
+        "description": "A Pyrogram String Session. One Assistant is Compulsory BSDK ACCHA ASSISTANT DALNA.",
         "value": "",
         "required": true
       },
@@ -70,12 +70,12 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/golujha9936/strangerbot",
+        "value": "https://github.com/Aayu00L/strangerbot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
         "description": "Upstream Repo's Branch Name",
-        "value": "master",
+        "value": "main",
         "required": true
       }
     },
